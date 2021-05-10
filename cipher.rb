@@ -22,10 +22,10 @@ def caesar_cipher(string, shifts)
   p ciphered
 end
 
-caesar_cipher("A", 1) # B
-caesar_cipher("Aaa", 1) # Bbb
-caesar_cipher("Hello, World!", 5) # Mjqqt, Btwqi!
-caesar_cipher("Mjqqt, Btwqi!", -5) # Hello, World!
-caesar_cipher('Z', 1) # A
-caesar_cipher('Hello, World!', 75) # Ebiil, Tloia!
-caesar_cipher('Hello, World!', -29) # Ebiil, Tloia!
+# caesar_cipher("A", 1) # B
+# caesar_cipher("Aaa", 1) # Bbb
+# caesar_cipher("Hello, World!", 5) # Mjqqt, Btwqi!
+# caesar_cipher("Mjqqt, Btwqi!", -5) # Hello, World!
+# caesar_cipher('Z', 1) # A
+# caesar_cipher('Hello, World!', 75) # Ebiil, Tloia!
+# caesar_cipher('Hello, World!', -29) # Ebiil, Tloia!
